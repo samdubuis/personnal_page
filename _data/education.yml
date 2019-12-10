@@ -3,8 +3,7 @@
   name: École Polytechnique Fédérale de Lausanne
   dates: 2019-now
   qualification: Master of Science in Communication Systems
-  # quote: >
-  #   Short institution or course description (optional)
+  quote: >
   description: | # this will include new lines to allow paragraphs
     Specialization in Signals, Images and Interfaces
 
@@ -12,17 +11,15 @@
   name: École Polytechnique Fédérale de Lausanne
   dates: 2015-2019
   qualification: Bachelor of Science in Communication Systems
-  # quote: >
-  #   Short institution or course description (optional)
+  quote: >
   description: | # this will include new lines to allow paragraphs
     Visual Computing Track
 
-  - layout: left
+- layout: left
   name: Little Rock Catholic High School for Boys, USA
   dates: 2011-2012
-  # qualification: 
-  # quote: >
-  #   Short institution or course description (optional)
+  qualification: 
+  quote: >
   description: | # this will include new lines to allow paragraphs
     Year of study and cultural experience in Arkansas, USA where I consequently improved my english skills
     and had the opportunity to play basketball
