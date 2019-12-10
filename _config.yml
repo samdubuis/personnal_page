@@ -1,5 +1,5 @@
 # Site
-repository: samdubuis/personnal_page
+repository: samdubuis/samdubuis.github.io # (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -26,19 +26,28 @@ linkedin_username: samueldubuis
 # about_title: About Me (Use this to override about section title)
 about_profile_image: img/pp_carre.png #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Recently gratuated from EPFL with a Bachelor in Communication Systems. 
-  Basketball player in the second Swiss division, I’m very interested by sport, cinematography, any new technologies and anything that concerns computer science from close or far. 
-  Lastly studying in the Visual Computing field, and always ready to discover and learn anything. 
-  I’m starting a Master in Communication Systems and I’m looking for internship possibilities. 
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Recently gratuated from EPFL with a Bachelor in Communication
+  Systems. Basketball player in the second Swiss division, I’m very interested
+  by sport, cinematography, any new technologies and anything that concerns
+  computer science from close or far. Lastly studying in the Visual Computing
+  field, and always ready to discover and learn anything. I’m starting a Master in
+  Communication Systems and I’m looking for internship possibilities.
+  
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    - Lists
+    - Tables
+    - Links
+    - Images
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
-
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
