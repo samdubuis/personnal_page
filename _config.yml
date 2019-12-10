@@ -26,7 +26,10 @@ linkedin_username: samueldubuis
 # about_title: About Me (Use this to override about section title)
 about_profile_image: img/pp_carre.png #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-Recently gratuated from EPFL with a Bachelor in Communication Systems. Basketball player in the second Swiss division, I’m very interested by sport, cinematography, any new technologies and anything that concerns computer science from close or far. Lastly studying in the Visual Computing field, and always ready to discover and learn anything. I’m starting a Master in Communication Systems and I’m looking for internship possibilities. 
+  Recently gratuated from EPFL with a Bachelor in Communication Systems. 
+  Basketball player in the second Swiss division, I’m very interested by sport, cinematography, any new technologies and anything that concerns computer science from close or far. 
+  Lastly studying in the Visual Computing field, and always ready to discover and learn anything. 
+  I’m starting a Master in Communication Systems and I’m looking for internship possibilities. 
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
