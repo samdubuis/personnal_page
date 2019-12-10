@@ -31,14 +31,14 @@ about_content: | # this will include new lines to allow paragraphs
   Lastly studying in the Visual Computing field, and always ready to discover and learn anything. 
   I’m starting a Master in Communication Systems and I’m looking for internship possibilities. 
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
-
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
