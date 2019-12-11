@@ -1,9 +1,0 @@
-# Education Template
-- layout: left
-  name: École Polytechnique Fédérale de Lausanne
-  dates: 2019 - now
-  qualification: Master of Science in Communication Systems
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification

@@ -1,2 +1,4 @@
 source "https://rubygems.org"
-gemspec
+
+gem "jekyll", "~> 3.6.2"
+gem "github-pages", "~> 168"
